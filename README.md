@@ -50,7 +50,6 @@ Support AdminLTE development by becoming a sponsor.
 [PayPal](https://www.paypal.me/daniel007in)
 
 ## License
-
 AdminLTE is an open source project by [AdminLTE.io](https://adminlte.io) that is licensed under [MIT](https://opensource.org/licenses/MIT).
 AdminLTE.io reserves the right to change the license of future releases.
 
